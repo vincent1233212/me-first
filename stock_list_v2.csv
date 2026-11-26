@@ -1,0 +1,51 @@
+symbol,security,gics_sector
+CMCSA,Comcast,Communication Services
+DIS,Walt Disney Company (The),Communication Services
+OMC,Omnicom Group,Communication Services
+T,AT&T,Communication Services
+HAS,Hasbro,Consumer Discretionary
+LOW,Lowe's,Consumer Discretionary
+MCD,McDonald's,Consumer Discretionary
+NKE,"Nike, Inc.",Consumer Discretionary
+ROST,Ross Stores,Consumer Discretionary
+ADM,Archer Daniels Midland,Consumer Staples
+CL,Colgate-Palmolive,Consumer Staples
+KMB,Kimberly-Clark,Consumer Staples
+PEP,PepsiCo,Consumer Staples
+APA,APA Corporation,Energy
+COP,ConocoPhillips,Energy
+CVX,Chevron Corporation,Energy
+VLO,Valero Energy,Energy
+XOM,ExxonMobil,Energy
+AXP,American Express,Financials
+SPGI,S&P Global,Financials
+TFC,Truist Financial,Financials
+TRV,Travelers Companies (The),Financials
+BMY,Bristol Myers Squibb,Health Care
+CI,Cigna,Health Care
+DHR,Danaher Corporation,Health Care
+MDT,Medtronic,Health Care
+UNH,UnitedHealth Group,Health Care
+HON,Honeywell Technologies,Industrials
+MMM,3M,Industrials
+NDSN,Nordson Corporation,Industrials
+PAYX,Paychex,Industrials
+SWK,Stanley Black & Decker,Industrials
+HPQ,HP Inc.,Information Technology
+ORCL,Oracle Corporation,Information Technology
+TXN,Texas Instruments,Information Technology
+WDC,Western Digital,Information Technology
+APD,Air Products,Materials
+NUE,Nucor,Materials
+SHW,Sherwin-Williams,Materials
+VMC,Vulcan Materials Company,Materials
+DOC,Healthpeak Properties,Real Estate
+ESS,Essex Property Trust,Real Estate
+KIM,Kimco Realty,Real Estate
+WY,Weyerhaeuser,Real Estate
+DTE,DTE Energy,Utilities
+DUK,Duke Energy,Utilities
+ED,Consolidated Edison,Utilities
+EXC,Exelon,Utilities
+NEE,NextEra Energy,Utilities
+PCG,PG&E Corporation,Utilities
